@@ -79,7 +79,7 @@ That should install all the dependencies, and now Sylvia is installed, and a wor
 
 ## Secrets
 
-First you should generate secrets for the Rails Application and Devise:
+First you should generate secrets for the Rails Application and Devise
 
 ```
 rake secret
