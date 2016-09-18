@@ -63,7 +63,9 @@ rbenv rehash
 
 Open another terminal or optionally an IDE, then navigate to your 'gemfile', and add the following line to your gemfile, in this instance the version really doesn't matter 
 
-  ```gem "sylvia"```
+  ```
+  gem "sylvia"
+  ```
   
 Once you have added the Sylvia gem, you can run the following 
 
